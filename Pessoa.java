@@ -10,16 +10,16 @@ public class Pessoa(){
         this.nome=nome;
     }      
     public String getEndereco() {
-        return endereco;
+        return this.endereco;
     }
     public void setEndereco(String endereco) {
-        this.endereco = endereco;
+        this.endereco=endereco;
     }
     public Int getTelefone() {
-        return telefone;
+        return this.telefone;
     }
     public void setTelefone(Int telefone) {
-        this.telefone = telefone;
+        this.telefone=telefone;
     }
 
 
