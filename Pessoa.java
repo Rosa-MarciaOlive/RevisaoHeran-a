@@ -1,7 +1,7 @@
-public class Pessoa(){
+public class Pessoa{
         private String nome;
         private String endereco;
-        private Int telefone;
+        private int telefone;
 
     public String getNome(){
         return this.nome;
@@ -15,20 +15,11 @@ public class Pessoa(){
     public void setEndereco(String endereco) {
         this.endereco=endereco;
     }
-    public Int getTelefone() {
+    public int getTelefone() {
         return this.telefone;
     }
-    public void setTelefone(Int telefone) {
+    public void setTelefone(int telefone) {
         this.telefone=telefone;
     }
 
-
-
-}
-  public void setNome(String nome){
-      this.nome=nome;
-      blic String getNome(){
-          return this.nome;
-          
-      }
-}
+    }
