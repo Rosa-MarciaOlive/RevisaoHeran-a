@@ -7,7 +7,7 @@ public class Principal {
         empregado.setSalario(22.000);
 
         Empregado empregado2=new Empregado();
-        empregado2.setNome("Emanuellle");
+        empregado2.setNome("Emanuelle");
         empregado2.setEndereco("Pompeia");
         empregado2.setTelefone(2222);
         empregado2.setSalario(3000);
